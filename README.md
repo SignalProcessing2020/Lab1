@@ -1,8 +1,9 @@
 # Lab1
 
 ## Instructions
+- Lab handout is <strong> Lab1.pdf </strong> in your repositories.
 - Code has to be done in MATLAB.
-- Clone this repository in your local machine.
+- Both team members have to clone this repository in your local machine.
 - <strong> Do not commit after the deadline </strong>.
 - Proper documentation is expected on how to run the files and <strong> explanation of the code </strong> or any theory questions.
 - Write theory questions in the code files with proper question numbers.
